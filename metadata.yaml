@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '43214'
     url: http://www.gutenberg.org/2009/agents/43214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45316#Footprints-of-Former-Men-in-Far-Cornwall
 gutenberg_issued: '2014-04-04'
 gutenberg_type: Text
 identifiers:
