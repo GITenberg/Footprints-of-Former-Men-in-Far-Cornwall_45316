@@ -1,0 +1,38 @@
+_repo: Footprints-of-Former-Men-in-Far-Cornwall_45316
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pethybridge, J. Ley
+    gutenberg_agent_id: '38724'
+    url: http://www.gutenberg.org/2009/agents/38724
+covers:
+- cover_type: archival
+  image_path: 45316-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hawker, Robert Stephen
+    alias: Hawker, R. S. (Robert Stephen)
+    deathdate: 1875
+    gutenberg_agent_id: '43213'
+    url: http://www.gutenberg.org/2009/agents/43213
+  editor:
+    agent_name: Byles, C. E. (Charles Edward)
+    alias: Byles, Charles Edward
+    birthdate: 1873
+    deathdate: 1944
+    gutenberg_agent_id: '43214'
+    url: http://www.gutenberg.org/2009/agents/43214
+description: ''
+gutenberg_issued: '2014-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45316'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Cornwall (England : County) -- History'
+title: Footprints of Former Men in Far Cornwall
+url: http://www.gutenberg.org/ebooks/45316
